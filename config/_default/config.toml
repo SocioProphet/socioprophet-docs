@@ -1,4 +1,4 @@
-baseurl = "https://unruffled-shirley-83aa24.netlify.app/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
