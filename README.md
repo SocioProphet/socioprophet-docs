@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://getdoks.org/">
     <img alt="Doks" src="https://doks.netlify.app/logo-doks.svg" width="60">
@@ -117,3 +118,8 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
+=======
+# socioprophet-docs
+
+Documentation for SocioProphet using Hugo Static Site Generator.
+>>>>>>> bd7c433126e969b2e3de658809af5313f750b187
