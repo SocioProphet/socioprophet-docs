@@ -3,8 +3,8 @@
 ## Homepage
 title = "SocioProphet Docs"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Documentation for SocioProphet."
+titleAddition = "SocioProphet Platform Documentation"
+description = "Static site for all of the public SocioProphet documentation."
 
 ## Open Graph
 images = ["doks.png"]
@@ -13,17 +13,16 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@SocioProphet"
+twitterCreator = "@SocioProphet"
 
 ## JSON-LD
-# schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaName = "SocioProphet"
+schemaAuthor = "William Jones"
+schemaAuthorTwitter = "https://twitter.com/WillJon89763747"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/william-jones-3839b5133/"
+schemaAuthorGitHub = "https://github.com/willjonestech"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -31,10 +30,10 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
-schemaSection = "blog"
+schemaTwitter = "https://twitter.com/SocioProphet"
+schemaLinkedIn = "https://www.linkedin.com/company/socioprophet/"
+schemaGitHub = "https://github.com/socioprophet"
+schemaSection = "documentation"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
@@ -50,15 +49,14 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+footer = "<a href=\"https://www.socioprophet.com/\">SocioProphet, Inc.</a>"
+copyRight = "Copyright (c) 2021 SocioProphet, Inc."
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://gitlab.com/socioprophet/socioprophet-docs"
 editPage = false
 
 [options]

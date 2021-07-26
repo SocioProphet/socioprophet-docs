@@ -1,6 +1,6 @@
 ---
-title : "Prologue"
-description: "Prologue Doks."
+title: "Social"
+description: "Documentation for the SocioProphet Community."
 lead: ""
 date: 2020-10-06T08:48:45+00:00
 lastmod: 2020-10-06T08:48:45+00:00
